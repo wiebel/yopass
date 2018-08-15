@@ -5,8 +5,7 @@ import (
 	"log"
 	"net/http"
 	"os"
-
-	"github.com/jhaals/yopass"
+	"github.com/wiebel/yopass"
 )
 
 func main() {
